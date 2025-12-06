@@ -82,10 +82,11 @@ A smooth animation appears after copying.
 ⸻
 
 📁 Folder Structure
-  index.html      
-  style.css       
-  script.js       
-  README.md       
+
+  -> index.html      
+  -> style.css       
+  -> script.js       
+  -> README.md       
 
 
 

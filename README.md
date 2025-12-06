@@ -82,11 +82,10 @@ A smooth animation appears after copying.
 ⸻
 
 📁 Folder Structure
-📂 project
- ├── index.html      # Main UI structure
- ├── style.css       # Styling & layout
- ├── script.js       # All logic & clipboard handling
- └── README.md       # Project documentation
+  index.html      
+  style.css       
+  script.js       
+  README.md       
 
 
 
